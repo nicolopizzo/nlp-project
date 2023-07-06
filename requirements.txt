@@ -1,0 +1,6 @@
+transformers[torch]
+nltk
+sentencepiece
+datasets
+pytorch_lightning
+jupyter
